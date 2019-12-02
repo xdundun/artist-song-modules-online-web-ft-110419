@@ -8,7 +8,7 @@ module Memorable
      self.all.count
    end
  end #end of ClassMethods
-end #end of module
+#end #end of module
 
 module InstanceMethods
    def initialize
