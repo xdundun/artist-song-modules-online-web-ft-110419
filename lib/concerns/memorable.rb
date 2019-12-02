@@ -12,7 +12,7 @@ end #end of module
 
 module InstanceMethods
    def initialize
-     # some more code coming soon!
+     self.class.all << self
    end
  end
 end #end of module
