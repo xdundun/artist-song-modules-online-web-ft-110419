@@ -15,4 +15,4 @@ module InstanceMethods
      # some more code coming soon!
    end
  end
-end
+end #end of module
