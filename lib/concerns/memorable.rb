@@ -1,2 +1,2 @@
 module memorable
-end 
+end #end of module
